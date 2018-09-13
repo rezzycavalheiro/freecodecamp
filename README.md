@@ -1,2 +1,2 @@
 # freecodecamp
-Freecodecamp work
+Freecodecamp work as I learn through the course.
