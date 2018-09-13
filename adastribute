@@ -1,0 +1,94 @@
+<!--Ada Lovelace history-->
+<style>
+  h1 {
+    font-family: Calibri;
+  }
+  
+  h2 {
+    font-family: Calibri;
+  }
+  
+  ul
+  {
+    font-family: Calibri;
+    font-size: 16px;
+  }
+  
+  .purple-text {
+    color: purple;
+  }
+  
+  p {
+    font-family: Calibri;
+    font-size: 20px;
+  }
+  
+  p1 {
+    font-family: Calibri;
+    font-size: 16px;
+  }
+  
+  body
+  {
+    background-color: rgb(210, 210, 210)
+  }
+  
+  .smaller-image {
+    width: 500px;
+    position: relative;
+    left: 268px;
+  }
+  
+  .thin-black-border {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+  }
+  
+  .white-background {
+    background-color: rgb(255, 255, 255);
+    margin: 10px 100px 20px 100px;
+  }
+  
+  .text-padding {
+    padding: 20px 40px 30px 40px;
+  }
+  
+  .slightly-darker-white-background {
+    background-color: rgb(245, 245, 245);
+    margin: 50px 200px 50px 200px;
+  }
+</style>
+
+<div class="slightly-darker-white-background">
+<div class="container-fluid">
+<h1 class="text-center purple-text">Ada Lovelace</h1>
+<h2 class="text-center">The first computer programmer</h2>
+</div>
+<div class="container-fluid" style="text-align: center">
+<img class="smaller-image thin-black-border img-responsive" src="https://s2.glbimg.com/paF5KTEVGzMU-ZcZa2mjYicNDjM=/e.glbimg.com/og/ed/f/original/2015/03/09/ada.jpg"></div>
+<div class="container-fluid">
+<ul class="font-family font-size white-background text-padding">
+<li><b>1815</b> - Augusta Ada King, Countess of Lovelace is born.<p>
+<li><b>1823</b> - Lord Byron, her father, the famous poet, dies of disease in the Greek War of Independence.
+<p>
+<li><b>1823 - 1832</b> - Ada's mother wanted to avoid the "poetic" traits of Lord Byron to be inherited by her daughter, so she makes Ada learn math from an early age. Ada was privately schooled in mathematics and science by William Frend, William King, and Mary Somerville, the noted researcher and scientific author of the 19th century.  <p> 
+<li><b>1832</b> -  One of her later tutors was the mathematician and logician Augustus De Morgan. From 1832, when she was seventeen, her mathematical abilities began to emerge, and her interest in mathematics dominated the majority of her later adult life. <p>
+<li><b>1833</b> - Lovelace is introduced to Charles Babbage by her tutor Mary Somerville. Some other of her acquaintances includes the scientists Andrew Crosse, Sir David Brewster, Charles Wheatstone, Michael Faraday and the author Charles Dickens.  Babbage invited Lovelace to see the prototype for his <a href="https://en.wikipedia.org/wiki/Difference_engine" target="_blank"> Difference Engine</a>. She became fascinated with the machine and used her relationship with Somerville to visit Babbage as often as she could. Babbage was impressed by Lovelace's intellect and analytic skills. He called her <i>The Enchantress of Number</i>. (sic) <p>
+<li><b>1835</b> - Ada marries William, 8th Baron King, becoming Lady King. Their residence is Ockham Park, a large estate in Surrey, along with another estate on Loch Torridon in Ross-shire, and a home in London.<p>
+<li><b>1836</b> - Byron, Lovelace's first child is born.<p>
+<li><b>1837</b> - Anne Isabella (called Annabella), Lovelace's second child, is born.<p>
+<li><b>1839</b> - Lovelace's third child is born. His name is Ralph Gordon.<p>
+<li><b>1842 - 1843</b> - Lovelace translates the Italian mathematician Luigi Menabrea's article on Babbage's newest proposed machine, the <a href="https://en.wikipedia.org/wiki/Analytical_Engine" target="_blank"> Analytical Engine</a>. Based on this work Lovelace is now widely considered the first computer programmer and her method is recognised as the world's first computer program.<p>
+<li><b>1852</b> - Lovelace dies at the age of 36 – the same age that her father had died – on 27 November 1852, from uterine cancer.<p>
+  </ul>
+<div class="container-fluid font-family font-size" style="text-align: center;">
+  <p>If you wish to know more about Lovelace's life and work, you can visit her Wikipedia page <a href="https://en.wikipedia.org/wiki/Ada_Lovelace" target="_blank">here</a>.</p>
+  <br>
+</div>
+</div>
+</div>
+ <div class="container-fluid font-family font-size" style="text-align: center;">
+ <p1>Written and coded by <a href="https://www.freecodecamp.com/rezzycavalheiro" target="_blank">Renata Cavalheiro</a>.</p1>
+ <br><br>
+  </div>
